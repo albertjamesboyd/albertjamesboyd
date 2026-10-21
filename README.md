@@ -1,39 +1,90 @@
-# 👋 Hi, I'm John Hulbert
+# 👋 Hi, I'm Albert Boyd
 
-I'm a **Senior Software Engineer** with **13+ years of experience** building and scaling modern web applications, full-stack platforms, and cloud-native systems across consulting and product-focused environments. I enjoy creating clean, reliable, and scalable solutions that deliver real business value.
+I'm a **Senior Full-Stack AI Engineer** with **14 years of experience** designing, developing, and scaling enterprise applications, modern web platforms, cloud-native systems, and AI-powered solutions.
 
-I work across both frontend and backend, with strong experience in **React**, **Next.js**, **TypeScript**, **Node.js**, **Python**, **Java**, **C#**, **.NET**, **SQL**, and modern cloud infrastructure. I also have hands-on experience with **AI and LLM-integrated workflows**, containerized deployments, and automated delivery pipelines.
+I specialize in building reliable, maintainable, and scalable software using **React, Next.js, TypeScript, Python, Node.js, C#, .NET, and SQL**. My background spans full-stack development, backend architecture, microservices, cloud infrastructure, and enterprise system modernization.
+
+I'm particularly passionate about applying **Artificial Intelligence, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and intelligent automation** to solve real business problems and create more efficient software systems.
 
 ---
 
 ## 🚀 What I Do
 
-- Build modern, responsive, and scalable **web applications** using React, Next.js, TypeScript, and Tailwind CSS
-- Design and develop **backend services and APIs** with Node.js, Express.js, NestJS, Python, Java, Spring Boot, and REST/GraphQL
-- Improve platform performance through **query optimization, caching, SSR/ISR, and scalable architecture**
-- Build and support **cloud-native systems** using AWS, Docker, Kubernetes, and CI/CD pipelines
-- Implement **AI and LLM-powered workflows** to automate business processes and improve team productivity
-- Integrate third-party services for **payments, shipping, tax, CRM, authentication, and webhooks**
-- Mentor engineers, contribute to architecture decisions, and help raise engineering standards across teams
+- Build scalable, responsive **full-stack applications** using React, Next.js, TypeScript, Python, Node.js, and .NET
+- Architect and develop **RESTful APIs, microservices, and event-driven systems** for enterprise applications
+- Integrate **LLMs and OpenAI APIs** into business applications for document processing, knowledge retrieval, and workflow automation
+- Design and implement **RAG pipelines** using Python, LangChain, PostgreSQL, and vector embeddings
+- Develop **AI-powered agents and intelligent workflows** to automate repetitive processes and integrate external services
+- Build and maintain **cloud-native applications** using AWS, Docker, Kubernetes, and CI/CD pipelines
+- Optimize **application performance, database queries, and backend services** to improve reliability and scalability
+- Mentor engineers, contribute to architecture decisions, and collaborate with cross-functional teams to deliver high-quality solutions
 
 ---
 
-## 💼 Experience Snapshot
+## 💼 Professional Experience
 
-### Senior Software Engineer | Bitwarden
-Developing scalable web applications and full-stack systems using React, Next.js, TypeScript, Node.js, and Python while contributing to cloud reliability, AI-enabled workflows, containerized deployments, and CI/CD automation.
+### Senior Full-Stack AI Engineer | First Line Software
+**Oct 2024 – Present | Cambridge, MA**
 
-### Software Engineer | DOOR3
-Built and enhanced client-facing web applications using React, Next.js, TypeScript, Node.js, and cloud services, with a focus on APIs, integrations, performance optimization, and delivery automation.
+Architecting and developing AI-enabled enterprise applications using React, Next.js, TypeScript, Python, and Node.js.
 
-### Full Stack Developer | Envoc
-Developed enterprise web applications using React, AngularJS, JavaScript, Node.js, Java, and SQL Server, supporting UI modernization, API integrations, and application performance improvements.
+- Integrating LLMs and OpenAI APIs for intelligent document processing, semantic search, and automated knowledge retrieval
+- Building RAG pipelines with LangChain, PostgreSQL, and vector embeddings
+- Developing AI agents and workflow automation services
+- Designing RESTful APIs, microservices, and event-driven architectures
+- Supporting cloud-native deployments using AWS, Docker, Kubernetes, and CI/CD automation
 
-### Web Developer | Gatorworks
-Developed and maintained web applications using HTML, CSS, JavaScript, jQuery, PHP, and MySQL, with a focus on responsive UI, backend functionality, and database-driven features.
+### Full-Stack AI Engineer | AHEAD
+**May 2021 – Sep 2024 | Chicago, IL**
 
-### IT Analyst | MayerIT
-Provided technical support and analysis for business systems, users, and IT operations in an onsite consulting environment.
+Developed enterprise applications and backend integrations using React, TypeScript, Node.js, Python, and PostgreSQL.
+
+- Built scalable full-stack applications and reusable frontend components
+- Designed secure RESTful APIs and enterprise integrations
+- Developed Python-based document processing and intelligent information retrieval workflows
+- Integrated generative AI and LLM capabilities into enterprise applications during the later part of the role
+- Supported AWS deployments, Docker containerization, automated testing, and CI/CD pipelines
+
+### Full-Stack Software Engineer | HCLTech
+**Apr 2019 – Feb 2021 | New York, NY**
+
+Developed enterprise applications using React, TypeScript, C#, ASP.NET Core, and SQL Server.
+
+- Built responsive user interfaces and reusable React components
+- Developed RESTful APIs and backend business services
+- Implemented authentication, authorization, and secure application integrations
+- Optimized SQL queries, stored procedures, and database performance
+- Supported automated testing, deployment pipelines, and production troubleshooting
+
+### Backend Software Developer | Envoc
+**Jun 2017 – Mar 2019 | Baton Rouge, LA**
+
+Developed enterprise backend applications using C#, ASP.NET MVC, ASP.NET Core, and SQL Server.
+
+- Designed RESTful Web APIs and backend services
+- Implemented business logic, authentication, and role-based authorization
+- Developed SQL database schemas, queries, and stored procedures
+- Integrated third-party APIs and enterprise systems
+- Used Entity Framework and LINQ for database operations
+
+### Web Application Developer | Antares Technology Solutions
+**Nov 2014 – May 2017 | Baton Rouge, LA**
+
+Developed business applications using ASP.NET MVC, C#, JavaScript, jQuery, Bootstrap, and SQL Server.
+
+- Built responsive web interfaces and server-side application functionality
+- Developed RESTful and SOAP web service integrations
+- Implemented database-driven workflows and business logic
+- Supported application testing, debugging, and deployment
+
+### Junior Web Developer | Susco Solutions
+**Aug 2012 – Oct 2014 | Metairie, LA**
+
+Started my professional software engineering career developing web applications using HTML, CSS, JavaScript, jQuery, C#, ASP.NET, and SQL Server.
+
+- Developed web pages, forms, and reusable UI components
+- Assisted with backend services and database integrations
+- Supported debugging, testing, and cross-browser compatibility
 
 ---
 
@@ -41,35 +92,83 @@ Provided technical support and analysis for business systems, users, and IT oper
 
 | Category | Technologies |
 |---|---|
-| Frontend | React, Next.js, AngularJS, Vue.js, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS, Bootstrap, jQuery, Redux, Redux-Saga |
-| Backend | Node.js, Express.js, NestJS, Python, Django, FastAPI, Java, Spring Boot, PHP, Laravel, REST APIs, GraphQL |
-| Database & Caching | PostgreSQL, MySQL, SQL Server, Redis, MongoDB, SQL |
-| Cloud & DevOps | AWS, EC2, RDS, S3, CloudFront, Lambda, Azure, Docker, Kubernetes, GitHub Actions, Jenkins, CI/CD |
-| AI & Integrations | LLMs, RAG, vector databases, AI integration, prompt-driven workflows, OAuth2, third-party API integrations |
-| Testing & Tools | Jest, Cypress, TDD, Git, GitHub, Jira, NUnit, MSTest, JUnit, Mockito |
+| **Programming Languages** | Python, TypeScript, JavaScript, C#, Java, SQL |
+| **Frontend** | React, Next.js, HTML5, CSS3, Bootstrap, jQuery, Responsive Design, Accessibility |
+| **Backend & APIs** | Node.js, ASP.NET Core, ASP.NET MVC, RESTful APIs, SOAP, Microservices, Event-Driven Architecture |
+| **AI & LLM Engineering** | OpenAI API, LLMs, RAG, LangChain, Vector Embeddings, Semantic Search, AI Agents, Document Processing |
+| **Databases** | PostgreSQL, SQL Server, SQL Optimization, Stored Procedures, Database Design |
+| **Cloud & DevOps** | AWS, Docker, Kubernetes, CI/CD Pipelines, Cloud-Native Applications |
+| **Security & Testing** | Authentication, RBAC, Secure APIs, Unit Testing, Integration Testing, Automated Testing |
+| **Engineering Practices** | System Architecture, Agile/Scrum, Code Reviews, Performance Optimization, Technical Documentation |
 
 ---
 
-## 🌱 What I Focus On
+## 🤖 AI & LLM Engineering
 
-I'm especially interested in:
+I'm especially interested in building practical AI solutions that integrate seamlessly with existing business systems.
 
-- Building scalable full-stack systems that are easy to maintain
-- Designing performant frontend experiences with modern React ecosystems
-- Developing backend services and APIs that support complex business workflows
-- Applying **AI and LLM solutions** in practical, high-value use cases
-- Improving engineering delivery through automation, CI/CD, and better developer workflows
-- Mentoring teams and contributing to a strong engineering culture
+My work includes:
+
+- **LLM Integration:** Connecting enterprise applications with large language models through OpenAI APIs
+- **Retrieval-Augmented Generation:** Building knowledge retrieval pipelines using LangChain, PostgreSQL, and vector embeddings
+- **AI Agents:** Developing intelligent agents that coordinate multi-step workflows and interact with external systems
+- **Semantic Search:** Improving information discovery using embeddings and context-aware retrieval
+- **Document Intelligence:** Automating document analysis, information extraction, and knowledge processing
+- **Workflow Automation:** Applying AI to reduce manual tasks and improve operational efficiency
+
+My focus is on developing AI features that are reliable, maintainable, and valuable in real-world production environments.
+
+---
+
+## 🌱 What I'm Focused On
+
+I'm continuously exploring and improving my skills in:
+
+- **Generative AI and LLM-powered applications**
+- **RAG architectures and enterprise knowledge systems**
+- **AI agents and intelligent workflow automation**
+- **Scalable microservices and distributed systems**
+- **Modern React and Next.js application architectures**
+- **Cloud-native engineering with AWS and Kubernetes**
+- **Software architecture, performance, and reliability**
+- **Developer productivity and engineering automation**
 
 ---
 
 ## 🤝 How I Work
 
-I care about writing code that is clean, practical, and built to last. I enjoy collaborating across product, design, and engineering, solving real problems, and helping teams move faster without sacrificing quality. My approach combines hands-on development, system thinking, and a strong focus on performance, reliability, and maintainability.
+I believe great software engineering is about more than writing code. It's about understanding business requirements, making thoughtful architecture decisions, and delivering solutions that remain reliable as systems grow.
+
+I enjoy collaborating with product managers, designers, architects, and engineering teams to solve complex technical challenges.
+
+My engineering approach emphasizes:
+
+- Clean, maintainable, and reusable code
+- Scalable and secure system architecture
+- Automated testing and reliable delivery pipelines
+- Performance optimization and production stability
+- Practical AI adoption and continuous improvement
+- Knowledge sharing, mentorship, and teamwork
+
+---
+
+## 🎓 Education
+
+**University of New Orleans**
+
+Bachelor of Science in Computer Science  
+2008 – 2012
 
 ---
 
 ## 📫 Connect With Me
 
-- **Email:** hulbertjohn130@gmail.com
-- **Location:** Baton Rouge, Louisiana
+I'm always interested in connecting with software engineers, AI practitioners, and teams building innovative technology.
+
+- **Email:** [albert.james.boyd@gmail.com](mailto:albert.james.boyd@gmail.com)
+- **LinkedIn:** [Albert Boyd](https://www.linkedin.com/in/albert-boyd-b83253445)
+- **Location:** Baton Rouge, Louisiana, USA
+
+---
+
+*Building scalable software, intelligent applications, and practical AI-powered solutions.*
