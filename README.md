@@ -154,7 +154,7 @@ My engineering approach emphasizes:
 
 ## 🎓 Education
 
-**University of New Orleans**
+**McNeese State University**
 
 Bachelor of Science in Computer Science  
 2008 – 2012
@@ -166,7 +166,7 @@ Bachelor of Science in Computer Science
 I'm always interested in connecting with software engineers, AI practitioners, and teams building innovative technology.
 
 - **Email:** [albert.james.boyd@gmail.com](mailto:albert.james.boyd@gmail.com)
-- **LinkedIn:** [Albert Boyd](https://www.linkedin.com/in/albert-boyd-b83253445)
+- **LinkedIn:** [Albert Boyd](https://www.linkedin.com/in/albert-boyd-88219b447)
 - **Location:** Baton Rouge, Louisiana, USA
 
 ---
